@@ -1,0 +1,82 @@
+{
+    "hotkeys": {
+        "random": "k"
+    },
+    "tags": [
+        "曹操",
+        "董卓",
+        "刘备",
+        "张飞",
+        "关羽"
+    ],
+    "active_tag": "全部",
+    "audios": [
+        {
+            "path": "曹操_咯咯笑1.mp3",
+            "type": "giggle",
+            "tags": [
+                "曹操"
+            ],
+            "enabled": true
+        },
+        {
+            "path": "曹操_憨笑1.mp3",
+            "type": "chuckle",
+            "tags": [
+                "曹操"
+            ],
+            "enabled": true
+        },
+        {
+            "path": "董卓_开怀大笑1.mp3",
+            "type": "belly_laugh",
+            "tags": [
+                "董卓"
+            ],
+            "enabled": true
+        },
+        {
+            "path": "刘备_窃笑1.mp3",
+            "type": "snicker",
+            "tags": [
+                "刘备"
+            ],
+            "enabled": true
+        },
+        {
+            "path": "张飞_婴儿笑1.mp3",
+            "type": "baby_laughter",
+            "tags": [
+                "张飞"
+            ],
+            "enabled": true
+        },
+        {
+            "path": "张飞_婴儿笑2.mp3",
+            "type": "baby_laughter",
+            "tags": [
+                "张飞"
+            ],
+            "enabled": false
+        },
+        {
+            "path": "关羽_普通笑1.mp3",
+            "type": "laughter",
+            "tags": [
+                "关羽"
+            ],
+            "enabled": true
+        }
+    ],
+    "tag_colors": {
+        "曹操": "#45B7D1",
+        "1": "#FF6B6B",
+        "董卓": "#45B7D1",
+        "刘备": "#96CEB4",
+        "张飞": "#96CEB4",
+        "关羽": "#FF6B6B"
+    },
+    "search_keyword": "",
+    "enable_hotkey": true,
+    "enable_mouse": false
+}
