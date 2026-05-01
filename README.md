@@ -10,7 +10,7 @@
 
 ## 功能介绍
 
-**[介绍视频](https://www.bilibili.com/video/BV1keRKBdEXG)**
+**[介绍视频](https://www.bilibili.com/video/BV1c6RMB8ERV)**
 
 ### 1. 笑声识别与触发
 
